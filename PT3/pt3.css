@@ -67,7 +67,7 @@ body {
     color: #F7FFF7;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 376px) {
     * {
         font-size: 6px;
     }
